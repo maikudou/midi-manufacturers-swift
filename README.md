@@ -1,2 +1,4 @@
 # midi-manufacturers-swift
-MIDI Manufacturers id to name map package to use in Swift apps.
+
+Swift Package to map MIDI manufacturer ids, found in SysEx events
+and Sequencer Specific event in MIDI files to manufacturer name. 
